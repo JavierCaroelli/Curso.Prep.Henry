@@ -1,0 +1,2 @@
+Los 'Array' son herramientas de tipo cadena, dentro de los cuales podemos almacenar datos de todo tipo, ya fuesen valores numericos, letras, funciones, y booleanos.
+Las líneas de tipo string o palabras, pueden interpretarse como cadenas.
